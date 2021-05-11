@@ -1,0 +1,38 @@
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\bin\Debug\Dochazka.exe
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\bin\Debug\Dochazka.pdb
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\obj\Debug\Dochazka.csproj.GenerateResource.Cache
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\obj\Debug\Dochazka.exe
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\obj\Debug\Dochazka.pdb
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\obj\Debug\Dochazka.FormEditace.resources
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\obj\Debug\Dochazka.FormEditDochazka.resources
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\obj\Debug\Dochazka.FormEditRFID.resources
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\obj\Debug\Dochazka.FormHlavni.resources
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\obj\Debug\Dochazka.FormLogin.resources
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\obj\Debug\Dochazka.Properties.Resources.resources
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\obj\Debug\Dochazka.FormGroup.resources
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\obj\Debug\Dochazka.InputBox.resources
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\obj\Debug\Dochazka.FormNastaveni.resources
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\bin\Debug\tisk.htm
+F:\ZCU FEL - V\Diplomka\Dochazka\Dochazka\Dochazka\obj\Debug\Dochazka.exe
+F:\ZCU FEL - V\Diplomka\Dochazka\Dochazka\Dochazka\obj\Debug\Dochazka.pdb
+C:\Documents and Settings\Martin\Plocha\Diplomka\Dochazka\Dochazka\Dochazka\obj\Debug\Dochazka.exe
+C:\Documents and Settings\Martin\Plocha\Diplomka\Dochazka\Dochazka\Dochazka\obj\Debug\Dochazka.pdb
+C:\Documents and Settings\Martin\Plocha\Diplomka\Dochazka\Dochazka\Dochazka\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Martin\Plocha\Diplomka\Dochazka\Dochazka\Dochazka\obj\Debug\Dochazka.FormEditace.resources
+C:\Documents and Settings\Martin\Plocha\Diplomka\Dochazka\Dochazka\Dochazka\obj\Debug\Dochazka.FormEditDochazka.resources
+C:\Documents and Settings\Martin\Plocha\Diplomka\Dochazka\Dochazka\Dochazka\obj\Debug\Dochazka.FormEditRFID.resources
+C:\Documents and Settings\Martin\Plocha\Diplomka\Dochazka\Dochazka\Dochazka\obj\Debug\Dochazka.FormHlavni.resources
+C:\Documents and Settings\Martin\Plocha\Diplomka\Dochazka\Dochazka\Dochazka\obj\Debug\Dochazka.FormLogin.resources
+C:\Documents and Settings\Martin\Plocha\Diplomka\Dochazka\Dochazka\Dochazka\obj\Debug\Dochazka.FormNastaveni.resources
+C:\Documents and Settings\Martin\Plocha\Diplomka\Dochazka\Dochazka\Dochazka\obj\Debug\Dochazka.InputBox.resources
+C:\Documents and Settings\Martin\Plocha\Diplomka\Dochazka\Dochazka\Dochazka\obj\Debug\Dochazka.Properties.Resources.resources
+C:\Documents and Settings\Martin\Plocha\Diplomka\Dochazka\Dochazka\Dochazka\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Martin\Plocha\Diplomka\Dochazka\Dochazka\Dochazka\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Martin\Plocha\Diplomka\Dochazka\Dochazka\Dochazka\bin\Debug\tisk.htm
+C:\Documents and Settings\Martin\Plocha\Diplomka\Dochazka\Dochazka\Dochazka\bin\Debug\Dochazka.exe
+C:\Documents and Settings\Martin\Plocha\Diplomka\Dochazka\Dochazka\Dochazka\bin\Debug\Dochazka.pdb
+C:\Documents and Settings\Martin\Plocha\Diplomka\Dochazka\Dochazka\Dochazka\obj\Debug\Dochazka.FormGroup.resources
+C:\Documents and Settings\Martin\Plocha\Diplomka\Dochazka\Dochazka\Dochazka\obj\Debug\Dochazka.FormSvat.resources
+C:\Documents and Settings\Martin\Plocha\Diplomka\Dochazka\Dochazka\Dochazka\obj\Debug\Dochazka.FormEditSv.resources
+C:\Documents and Settings\Martin\Plocha\Diplomka\Dochazka\Dochazka\Dochazka\obj\Debug\Dochazka.FormSmeny.resources

@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{42512DD8-B3AF-49E5-87E7-30029F5E1489}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Dochazka</RootNamespace>
+    <AssemblyName>Dochazka</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>Dochazka.Program</StartupObject>
+    <ApplicationIcon>MOUGLIE.ICO</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.2.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ACR120.cs" />
+    <Compile Include="FormSmeny.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSmeny.Designer.cs">
+      <DependentUpon>FormSmeny.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditSv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditSv.Designer.cs">
+      <DependentUpon>FormEditSv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Svatky.cs" />
+    <Compile Include="FormGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGroup.Designer.cs">
+      <DependentUpon>FormGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNastaveni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNastaveni.Designer.cs">
+      <DependentUpon>FormNastaveni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSvat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSvat.Designer.cs">
+      <DependentUpon>FormSvat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InputBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RFID.cs" />
+    <Compile Include="Skupiny.cs" />
+    <Compile Include="Pohyby.cs" />
+    <Compile Include="DatabaseConect.cs" />
+    <Compile Include="FormEditDochazka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditDochazka.Designer.cs">
+      <DependentUpon>FormEditDochazka.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditRFID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditRFID.Designer.cs">
+      <DependentUpon>FormEditRFID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditace.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditace.Designer.cs">
+      <DependentUpon>FormEditace.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHlavni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHlavni.Designer.cs">
+      <DependentUpon>FormHlavni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Functions.cs" />
+    <Compile Include="Parametry.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormEditSv.resx">
+      <DependentUpon>FormEditSv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGroup.resx">
+      <DependentUpon>FormGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEditace.resx">
+      <DependentUpon>FormEditace.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEditDochazka.resx">
+      <DependentUpon>FormEditDochazka.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEditRFID.resx">
+      <DependentUpon>FormEditRFID.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHlavni.resx">
+      <DependentUpon>FormHlavni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNastaveni.resx">
+      <DependentUpon>FormNastaveni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSmeny.resx">
+      <DependentUpon>FormSmeny.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSvat.resx">
+      <DependentUpon>FormSvat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputBox.resx">
+      <DependentUpon>InputBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Registry.cs" />
+    <Compile Include="Tisk.cs" />
+    <Compile Include="uzivatele.cs" />
+    <Compile Include="Zamestnanci_skupiny.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MOUGLIE.ICO" />
+    <Content Include="tisk.htm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

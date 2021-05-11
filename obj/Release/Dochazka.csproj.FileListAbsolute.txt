@@ -1,0 +1,16 @@
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\bin\Release\Dochazka.exe
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\bin\Release\Dochazka.pdb
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\obj\Release\Dochazka.csproj.GenerateResource.Cache
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\obj\Release\Dochazka.exe
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\obj\Release\Dochazka.pdb
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\obj\Release\Dochazka.FormEditace.resources
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\obj\Release\Dochazka.FormEditDochazka.resources
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\obj\Release\Dochazka.FormEditRFID.resources
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\obj\Release\Dochazka.FormHlavni.resources
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\obj\Release\Dochazka.FormLogin.resources
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\obj\Release\Dochazka.Properties.Resources.resources
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\obj\Release\Dochazka.FormGroup.resources
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\obj\Release\Dochazka.InputBox.resources
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\obj\Release\Dochazka.FormNastaveni.resources
+C:\Documents and Settings\Martin\Dokumenty\ZCU FEL - III\Martin Zuza Bc\Dochazka\Dochazka\Dochazka\bin\Release\tisk.htm
